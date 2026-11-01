@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Title: Team B
+=======
+Title: Team A
+>>>>>>> feature/title
